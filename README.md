@@ -5,7 +5,7 @@ This project was created to demonstrate practical manual QA skills.
 Testing was performed on a web application focusing on authentication
 and checkout functionality.
 
-**Testing Type:** Manual Functional Testing
+**Testing Type:** Manual Functional Testing  
 **Test Documentation Format:** Excel (.xlsx)
 
 ## Artifacts
