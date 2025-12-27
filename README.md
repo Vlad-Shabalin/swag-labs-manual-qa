@@ -6,6 +6,14 @@ Testing was performed on a web application focusing on authentication
 and checkout functionality.
 
 **Testing Type:** Manual Functional Testing
+**Test Documentation Format:** Excel (.xlsx)
+
+## Artifacts
+- 📋 [Test Plan](Test_Plan.md)
+- 📊 [Test Summary Report](Test_Summary_Report.md)
+- 📂 [Test Cases](Test_Cases/)
+- 📌 [Checklist](Checklist/)
+- 🐞 [Bug Reports](Bug_Reports/)
 
 ## Application Under Test
 Type: Web application (training project)  
